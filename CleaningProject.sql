@@ -21,7 +21,7 @@ FROM layoffs;
 -- Steps to clean the data:
 -- 1. Remove duplicates
 -- 2. Standardize the data
--- 3. Null values or Blank values
+-- 3. Remove null or blank values
 -- 4. Remove any columns and rows
 
 
