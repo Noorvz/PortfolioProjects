@@ -187,7 +187,7 @@ MODIFY COLUMN `date` DATE;
 
 
 
--- 3. Null values or Blank values
+-- 3. Remove null values and blank values
 -- identified null and bank values in the industry column
 
 SELECT *
